@@ -1,0 +1,17 @@
+.upvote {
+  margin: auto;
+  width: 50%;
+}
+
+body {
+  padding: 2rem;
+}
+
+.submission {
+  border: 1px solid gray;
+  padding: 2rem;
+  margin-bottom: 1rem;
+}
+.blue-border {
+  border: 1px solid blue;
+}
